@@ -1,6 +1,7 @@
-h1 {
+#title {
   text-decoration: underline;     
-    text-decoration-color: black;
+  text-decoration-color: black;
+  text-align:center
 }
 #profile {
                 border-style: solid;
