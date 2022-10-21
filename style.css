@@ -13,9 +13,11 @@ body {
 background-color: #808080;
 }
 #align {
- padding-top:500px;  
+ padding-top:300px;  
 }
 
 #aboutMe {
- padding:20px; 
+ padding-top:100px; 
+ padding-left:530px; 
+ padding-right:500px;
 }
