@@ -12,3 +12,6 @@
 body {
 background-color: #808080;
 }
+#align {
+ text-align:left; 
+}
