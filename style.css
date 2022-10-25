@@ -19,3 +19,7 @@ background-color: #808080;
 #aboutMe {
 text-align:center;
 }
+
+.caption{
+  float: left; 
+}
